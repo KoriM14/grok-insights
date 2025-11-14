@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Grok Product Insights")
+st.title("Code Quality Insights")
 st.write("Real-time LLM code quality dashboard")
 
 
